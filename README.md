@@ -11,7 +11,7 @@ and share small things as they take shape.
 
 **lately, I’ve been:**
 
-- Exploring machine learning methods in my student research work
+- Exploring machine learning methods (Gradient Boosting, and CNNs) in my student research work
 - In my third year studying Network Engineering, with a growing interest in how
   agentic AI can be applied in this space
 - Building small, multimedia art projects (more to come)
@@ -26,6 +26,7 @@ and share small things as they take shape.
 
 ---
 
+### where you can find me: 
 
 -> https://github.com/juliavinai  
 -> https://ghostsihaveseen.neocities.org/  
