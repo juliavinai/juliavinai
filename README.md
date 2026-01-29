@@ -27,7 +27,6 @@ This is a place to learn in public, follow my curiosity, and share small things 
 ### where you can find me
 → GitHub: https://github.com/juliavinai  
 → LinkedIn: https://www.linkedin.com/in/julia-vinai/  
-→ writing / experiments: https://ghostsihaveseen.neocities.org/
 
 <img src="heddy.png" alt="Hedy Lamarr" width="120" />
 
