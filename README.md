@@ -17,11 +17,6 @@ This is a place to learn in public, follow my curiosity, and share small things 
 - Learning slowly and intentionally, giving myself room to explore both
   technology and the human experience
 
-**i’m currently reading:**
-- _The Hour of the Star_ — Clarice Lispector
-- _A Mind at Play_ — Rob Goodman & Jimmy Soni
-- _Revolution in Poetic Language_ — Julia Kristeva
-
 ---
 
 ### where you can find me
@@ -34,5 +29,5 @@ This is a place to learn in public, follow my curiosity, and share small things 
 Hedy Lamarr — co-inventor of frequency hopping with composer George Antheil
 </sub>
 
-_last updated: january 2026_
+_last updated: march 2026_
 
