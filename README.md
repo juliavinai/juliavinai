@@ -10,7 +10,7 @@ growing interest in machine learning and intelligent systems.
 This is a place to learn in public, follow my curiosity, and share small things as they take shape.
 
 **lately, I’ve been:**
-- Exploring machine learning methods (gradient boosting and CNNs) in my student research work
+- Exploring the application of machine learning methods in biology (gradient boosting and CNNs) for my student research work
 - In my fourth year studying network engineering, with a growing interest in how
   agentic AI can be applied in this space
 - Building small, multimedia art projects (more to come)
