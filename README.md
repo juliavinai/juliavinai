@@ -1,6 +1,6 @@
 ### hi, I’m Julia
 
-I’m an incessantly curious human, currently studying network engineering, with a
+I’m an incessantly curious person, currently studying network engineering, with a
 growing interest in machine learning and intelligent systems.
 
 ---
@@ -11,7 +11,7 @@ This is a place to learn in public, follow my curiosity, and share small things 
 
 **lately, I’ve been:**
 - Exploring machine learning methods (gradient boosting and CNNs) in my student research work
-- In my third year studying network engineering, with a growing interest in how
+- In my fourth year studying network engineering, with a growing interest in how
   agentic AI can be applied in this space
 - Building small, multimedia art projects (more to come)
 - Learning slowly and intentionally, giving myself room to explore both
